@@ -49,21 +49,12 @@ git clone https://github.com/mahika300/Card-Manager.git
 > Add screenshots of your application here.
 
 
-Example:
 
-```
-assets/
-└── screenshots/
-    ├── home.png
-    └── form.png
-```
-
-Then use:
 
 ```md
-![Home Screen](assets/screenshots/home.png)
+![Home Screen](images/Card.png)
 
-![Add Card Form](assets/screenshots/form.png)
+![Add Card Form](images/Form.png)
 ```
 
 ## 🔮 Future Improvements
