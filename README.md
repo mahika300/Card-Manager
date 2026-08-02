@@ -36,13 +36,13 @@ Card-Manager/
 
 1. Clone the repository:
 
-
+```bash
 git clone https://github.com/mahika300/Card-Manager.git
-
+```
 
 2. Open the project folder.
 
-3. Open index.html in your browser.
+3. Open `index.html` in your browser.
 
 ## 📸 Preview
 
