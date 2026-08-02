@@ -46,16 +46,10 @@ git clone https://github.com/mahika300/Card-Manager.git
 
 ## 📸 Preview
 
-> Add screenshots of your application here.
-
-
-
-
-```md
 ![Home Screen](images/Card.png)
 
 ![Add Card Form](images/Form.png)
-```
+
 
 ## 🔮 Future Improvements
 
